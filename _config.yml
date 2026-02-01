@@ -1,0 +1,22 @@
+title: SocketZero Documentation
+description: Secure remote access made simple
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Quick Start
+    url: /docs/guides/quick-start
+  - title: User Guide
+    url: /docs/guides/user-guide
+  - title: FAQ
+    url: /docs/faq
+  - title: Troubleshooting
+    url: /docs/troubleshooting
+
+# GitHub
+github:
+  repository_url: https://github.com/radiusmethod/socketzero-docs
+  is_project_page: true
